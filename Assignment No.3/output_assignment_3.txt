@@ -1,0 +1,12 @@
+Fractional Knapsack Output
+
+RELIEF SUPPLY SELECTION
+-------------------------------------------------------------------------
+Item              Weight       Value       Ratio       Selected
+-------------------------------------------------------------------------
+Medical Kit          15          180          12          15
+Medicine             10          100          10          10
+Drinking Water       20          120          6           20
+Food                 5           25           5           5 kg (fraction)
+-------------------------------------------------------------------------
+Boat Capacity: 50 kg

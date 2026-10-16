@@ -1,0 +1,24 @@
+Enter number of intersections: 5
+Enter number of roads: 6
+Enter roads as: from to travel_time
+0 1 4
+0 2 2
+1 2 1
+1 3 5
+2 3 8
+2 4 3
+
+1. Find shortest path
+2. Update traffic and find path again
+Enter choice: 1
+
+Shortest travel time from S:
+Node 0 : 0 minutes
+Node 1 : 3 minutes
+Node 2 : 2 minutes
+Node 3 : 8 minutes
+Node 4 : 5 minutes
+
+Enter hospital destination node: 4
+Shortest path: 0 2 4 
+Total travel time: 5 minutes
